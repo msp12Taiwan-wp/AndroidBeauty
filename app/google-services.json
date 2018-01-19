@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044976101704",
+    "project_id": "beauty-dab0d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044976101704:android:ad73b199bfddddcc",
+        "android_client_info": {
+          "package_name": "com.fsmytsai.beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044976101704-sqfrr2b0nvaqimlfvf98p376djv8o9sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsmytsai.beauty",
+            "certificate_hash": "88578f4a19113ccfde2877a883b96eed2ebac902"
+          }
+        },
+        {
+          "client_id": "1044976101704-pvc561don05sot95rrp1pqu5c67tvbf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNc6y1wrLFRu9zl6eLO76PGcBvnHD2mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
